@@ -1,0 +1,7 @@
+
+自分のパソコンのスペック
+
+
+プロセッサ　intel(R)Celeron(R)CPU N3050@ 1.60GHz  1.60 GHz
+
+実装４．００GB　
