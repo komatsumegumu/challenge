@@ -71,7 +71,15 @@ if(a==1){
 %>
 
 
+ ７．
+<%
+
+String param1 = request.getParameter ont.print("雑貨");    
+    String param2 = request.getParameter out.print("生鮮食品");   
+    String param3 = request.getParameter out.print("その他"); 
+
 
         
     </body>
 </html>
+
