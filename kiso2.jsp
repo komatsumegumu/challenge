@@ -4,10 +4,12 @@
 1.
 
 <%
-    int iNum   = 1;
-    out.print(iNum+"test");
+    
+   
 
-int num=1;String message="";
+int num=1;
+String message="";
+
 switch(num){
   case 1:
      message="one";
@@ -17,13 +19,14 @@ switch(num){
      break;
    default:
      message="‘z’èŠO";
-   
+     break;
+     
    
 }
-out.print("message");
+out.println(message);
 
 %>
-
+<a href="kiso2.jsp"></a>
 
 2.
 <%
@@ -48,5 +51,45 @@ int kake= 8*20;//Š|‚¯ŽZG  out.print("")
 }
 %>
 
+4.
+<%
+for(int i='1' ;i<30;i++){
+    out.print('A');
+    
+    
+}
+%>
+
+5.
+<%
+for(int i=0;i<100;i++){
    
-  
+    int tasi=i+100;//‘«‚µŽZ
+    
+} 
+%>
+
+
+6.
+<%
+int key=1000;
+while(key>=100){
+key=key/2; //Š„‚èŽZ 
+}
+
+
+
+%>
+
+7.8.
+<%   
+String nArr2[]={"102","100","soeda","hayasi","-20","118","END"};
+out.println(nArr2[2]);
+nArr2[2]="33";
+out.println(nArr2[2]);
+
+%>
+
+        
+
+9.
