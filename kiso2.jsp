@@ -89,7 +89,3 @@ nArr2[2]="33";
 out.println(nArr2[2]);
 
 %>
-
-        
-
-9.
